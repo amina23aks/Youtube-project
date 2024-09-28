@@ -1,0 +1,27 @@
+.img {
+  width: 250px;
+  border-radius: 15px;
+  vertical-align: top;
+  margin-right: 10px;
+
+}
+
+.img2 {
+  width: 150px;
+  height: 150px;
+  vertical-align: top;
+  object-fit: cover;
+  object-position: center;
+  margin-right: 10px;
+
+}
+
+.img3 {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  object-position: right;
+  vertical-align: top;
+  border-radius: 100px;
+
+}

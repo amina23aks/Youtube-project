@@ -1,0 +1,195 @@
+.src{
+  font-size: 15px;
+  border-width: 1px ;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 8px;
+  
+}
+.gl{
+  display: block;
+  width: 300px;
+  margin-left: 300px;
+  margin-bottom: 10px;
+  
+}
+.src2{
+  font-size: 16px;
+  width: 500px;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 30px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  margin-top: 50pxpx;
+  margin-left: 200px;
+
+}
+
+.src3{
+ width: 330px;
+}
+
+.join{
+  background-color: rgb(0, 115, 255);
+  color: white;
+  border: none;
+  height: 30px;
+  width: 220px;
+  border-radius: 15px;
+  cursor: pointer;
+   margin-bottom: 10px;
+}
+
+.img{
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.text-box {
+  font-size: 18px;
+  border: none;
+  width: 300px;
+  vertical-align: middle;
+}
+
+.tweet-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+.name{
+  display: block;
+  margin-bottom: 4px;
+}
+
+.phara {
+  display: inline-block;
+  width: 200px;
+  vertical-align: middle;
+}
+
+.First{
+  margin-bottom: 8px;
+  width: 177px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  padding-left: 11px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.Last{
+  margin-bottom: 8px;
+  width: 177px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  padding-left: 11px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  
+}
+
+.Email{
+margin-bottom: 8px;
+width: 370px;
+border-radius: 5px;
+border: none;
+box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+padding-left: 11px;
+padding-top: 8px;
+padding-bottom: 8px;
+
+}
+
+.SginUp{
+  background-color: rgb(0, 140, 255);
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 385px;
+  font-weight: bold;
+  font-size: 18px;
+
+}
+
+
+.title {
+  font-size: 40px;
+  margin-bottom: 25px;
+  font-family: Arial;
+
+}
+
+.pickup-textbox {
+  display: block;
+  background-color: rgb(240, 240, 240);
+  border: none;
+  margin-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 16px;
+  width: 400px;
+}
+
+.destination-textbox {
+  margin-bottom: 35px;
+  display: block;
+  background-color: rgb(240, 240, 240);
+  border: none;
+  margin-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 16px;
+  width: 400px;
+}
+
+.request-button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 16px;
+  margin-right: 20px;
+}
+
+.schedule-button {
+  background-color: rgb(240, 240, 240);
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 16px;
+}
